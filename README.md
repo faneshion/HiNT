@@ -53,7 +53,7 @@ Here, we take the mq2007 dataset as an example. While, in testing, you need to r
 
 
 
-#Download the Letor Data
+## Download the Letor Data
 
 Dataset can be download from [LETOR 4.0](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/). The content of the documents can be extract from the GOV2 dataset which need permission from [here](http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html).
 
