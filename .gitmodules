@@ -1,0 +1,3 @@
+[submodule "textnet"]
+	path = textnet
+	url = https://github.com/pl8787/textnet-release.git
